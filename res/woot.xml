@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:woot="http://www.woot.com/">
+  <channel>
+    <title>Woot! - One Day, One Deal</title>
+    <link>http://shirt.woot.com/</link>
+    <description>Woot! - One Day, One Deal</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Argotic Syndication Framework 2008.0.2.0, http://www.codeplex.com/Argotic</generator>
+    <lastBuildDate>Mon, 16 Aug 2010 16:46:29 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Aug 2010 16:46:29 GMT</pubDate>
+    <ttl>60</ttl>
+    <item>
+      <title>My Hero</title>
+      <description>&lt;p&gt;Alright, Murray. I’ve been working on this novelty bar pitch all  weekend and I think I’ve really got an idea that’ll wow you this time.&lt;/p&gt;
+&lt;p&gt;What if we create a bar in the Swiss Alps that doesn’t require a bar  at all? Instead, we get people to pay us for the privilege of being  trapped on a mountain for a few hours to be served by our very own  trained “rescue dog” bartenders! You follow me? We can, I don’t know,  stage an avalanche every hour, maybe have some food specials with names  indicative of eating other survivors brought out by guys in yeti  costumes… I’m telling you, the possibilities with this idea are endless!  And the money we save in not having to pay actual bartenders, we can  use on a rescue helicopter to take the patrons back to their cars! Think  of the Internet buzz!&lt;/p&gt;
+&lt;p&gt;Yeah, okay, the insurance on the business might be a killer. Maybe  we only do the avalanche thing every couple of hours. Would that help?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wear this shirt:&lt;/strong&gt; as you await the sweet rescue of  Happy Hour. NO, &lt;span class="caps"&gt;NOT &lt;/span&gt;&lt;a href="http://woot.com/happyhour"&gt;&lt;span class="caps"&gt;THAT ONE&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don’t wear this shirt:&lt;/strong&gt; if even the casting of  Charles Grodin couldn’t help you enjoy the Beethoven movies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This shirt tells the world:&lt;/strong&gt; “What’s the trouble,  girl? Timmy needs a dry martini?”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We call this color:&lt;/strong&gt; Old Whiter&lt;/p&gt;
+&lt;div style='float:right; margin:0 10px 10px 10px;' id='SpecsShippingIcons'&gt;&lt;div style='height:66px; width:64px; background-position: top; background-repeat: no-repeat; background-image: url(http://static.woot.com/Images/Icons/64x64/SmartPost1.png);'&gt;&lt;/div&gt;&lt;/div&gt;&lt;strong&gt;Design Placement:&lt;/strong&gt;
+&lt;p&gt;Centered&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design Size:&lt;/strong&gt;&lt;br /&gt;
+3X – S: 11” x 12.77”&lt;br /&gt;
+&lt;span class="caps"&gt;WXL &lt;/span&gt;- K4: 8.25” x 9.58”&lt;/p&gt;
+&lt;strong&gt;Pantone Colors:&lt;/strong&gt;
+&lt;p&gt;&amp;#160;123C - 157C - 7516C - 711C - 537C - 5415C - 476C&lt;/p&gt;
+&lt;p&gt;Please check our &lt;a class="modalPopUp sizingchart" href="http://shirt.woot.com/SizingChart.htm" title="http://shirt.woot.com/SizingChart.htm"&gt;sizing chart&lt;/a&gt; before you order. The Woot Tee follows a classic closer-fitting style. If you prefer a baggier look, order a larger size. If there is not a larger size, consider starting a belly-hanging-out trend.&lt;/p&gt;</description>
+      <link>http://shirt.woot.com/</link>
+      <author>Woot</author>
+      <guid isPermaLink="false">http://shirt.woot.com/Default.aspx?WootSaleId=14907</guid>
+      <pubDate>Mon, 16 Aug 2010 00:00:00 GMT</pubDate>
+      <itunes:author>Woot</itunes:author>
+      <woot:subtitle>Remember To Tip Your St. Bernard-tender</woot:subtitle>
+      <woot:price>$10.00</woot:price>
+      <woot:comments>46</woot:comments>
+      <woot:condition>Fully Stocked</woot:condition>
+      <woot:soldout>False</woot:soldout>
+      <woot:wootoff>False</woot:wootoff>
+      <woot:purchaseurl>http://shirt.woot.com/WantOne.aspx?id=52b60a7e-5603-4e46-a233-dd0b80997624</woot:purchaseurl>
+      <woot:thumbnailimage>http://sale.images.woot.com/My_Hero11mThumbnail.png</woot:thumbnailimage>
+      <woot:substandardimage>http://sale.images.woot.com/My_Herouh1ShoppingYahoo.png</woot:substandardimage>
+      <woot:standardimage>http://sale.images.woot.com/My_HeroqqfStandard.png</woot:standardimage>
+      <woot:detailimage>http://sale.images.woot.com/My_HerojfxDetail.png</woot:detailimage>
+      <woot:discussionurl>http://shirt.woot.com/Forums/ViewPost.aspx?PostID=4077973</woot:discussionurl>
+      <woot:blogurl>http://shirt.woot.com/Blog/ViewEntry.aspx?Id=13680</woot:blogurl>
+      <woot:teaser>Hi there. Get stranded in the Alpines often?</woot:teaser>
+      <woot:shipping>free shipping (standard) OR $5 to get it overnight (Wednesday) OR $5 international shipping</woot:shipping>
+      <woot:soldoutpercentage>0.000</woot:soldoutpercentage>
+      <woot:products>
+        <woot:product quantity="1">White Woot Tee</woot:product>
+      </woot:products>
+    </item>
+  </channel>
+</rss>
